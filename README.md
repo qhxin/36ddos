@@ -89,7 +89,7 @@ Layer4 DDoS Script
 
 git clone https://github.com/yvsv/36ddos.git
 
-cd MHDDoS 
+cd 36ddos 
 
 pip3 install -r requirements.txt
 
